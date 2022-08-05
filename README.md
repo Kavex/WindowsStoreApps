@@ -1,7 +1,6 @@
 # WindowsStore
 
-http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/795ceefa-a798-4b6b-b2a9-8851800eea3d?P1=1651784054&P2=404&P3=2&P4=lZZ5Safn6CpCGFu9ZQt3OcnxMLXDYGLE6HTuiW28ynEfoMWP0mwTHybuKiH4Dx8nWtwtXKrCJ8DySa%2fYaNqMLg%3d%3d
-
 https://store.rg-adguard.net/
 
-https://www.microsoft.com/en-us/p/microsoft-store/9wzdncrfjbmp
+Store: https://www.microsoft.com/en-us/p/microsoft-store/9wzdncrfjbmp
+Photo: https://apps.microsoft.com/store/detail/microsoft-photos/9WZDNCRFJBH4
