@@ -13,3 +13,7 @@ Hevc Extension: https://apps.microsoft.com/store/detail/hevc-video-extensions-fr
 MPEG-2 Video Extension: https://apps.microsoft.com/store/detail/mpeg2-video-extension/9N95Q1ZZPMH4
 
 Web Media Extension: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
+
+3D Viewer: https://apps.microsoft.com/store/detail/3d-viewer/9NBLGGH42THS
+
+Paint 3D: https://apps.microsoft.com/store/detail/paint-3d/9NBLGGH5FV99
