@@ -23,3 +23,5 @@ VP9 Video Extensions: https://apps.microsoft.com/store/detail/vp9-video-extensio
 AV1 Video Extension: https://apps.microsoft.com/store/detail/av1-video-extension/9MVZQVXJBQ9V
 
 HEIF Image Extensions: https://apps.microsoft.com/store/detail/heif-image-extensions/9PMMSR1CGPWG
+
+Sticky Notes: https://apps.microsoft.com/store/detail/microsoft-sticky-notes/9NBLGGH4QGHW
