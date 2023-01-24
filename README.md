@@ -16,9 +16,9 @@ MPEG-2 Video Extension: https://apps.microsoft.com/store/detail/mpeg2-video-exte
 
 Web Media Extension: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
 
-3D Viewer: https://apps.microsoft.com/store/detail/3d-viewer/9NBLGGH42THS
-
 Paint 3D: https://apps.microsoft.com/store/detail/paint-3d/9NBLGGH5FV99
+
+3D Viewer: https://apps.microsoft.com/store/detail/3d-viewer/9NBLGGH42THS
 
 VP9 Video Extensions: https://apps.microsoft.com/store/detail/vp9-video-extensions/9N4D0MSMP0PT
 
