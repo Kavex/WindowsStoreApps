@@ -27,3 +27,5 @@ AV1 Video Extension: https://apps.microsoft.com/store/detail/av1-video-extension
 Sticky Notes: https://apps.microsoft.com/store/detail/microsoft-sticky-notes/9NBLGGH4QGHW
 
 Webp Image Extensions: https://apps.microsoft.com/store/detail/webp-image-extensions/9PG2DK419DRG
+
+3D Builder: https://apps.microsoft.com/store/detail/3d-builder/9WZDNCRFJ3T6
